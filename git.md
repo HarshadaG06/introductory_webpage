@@ -5,3 +5,6 @@
 * to check git config --list
 
 * git init
+* git add.
+* git commit -m "message"
+* git push
